@@ -1,6 +1,6 @@
 
 
-live site : https://byteblage-blos.netlify.app/
+live site : https://byteblage-blogs.netlify.app/
 
 
 
